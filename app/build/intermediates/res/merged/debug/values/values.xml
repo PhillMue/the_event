@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="event_time">
+        <item name="year">2013</item>
+        <item name="month">11</item>
+        <item name="day">25</item>
+        <item name="hour">18</item>
+        <item name="minute">30</item>
+    </integer-array>
+    <integer-array name="map_pin_color">
+        <item>0</item>
+        <item>9</item>
+    </integer-array>
+    <string-array name="map_pin_description">
+        <item>We will meet here for most of the talks.</item>
+        <item>Lunch will be served here at 12:00.</item>
+    </string-array>
+    <string-array name="map_pin_latitudeDegrees">
+        <item>35.842308</item>
+        <item>35.853440</item>
+    </string-array>
+    <string-array name="map_pin_longitudeDegrees">
+        <item>14.479980</item>
+        <item>14.462128</item>
+    </string-array>
+    <string-array name="map_pin_title">
+        <item>Hotel</item>
+        <item>Restaurant</item>
+    </string-array>
+    <string-array name="schedule_details">
+        <item>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tristique tempor tortor, id dignissim magna gravida vitae. Nunc nec libero dui. Proin lectus lorem, semper ut commodo nec, condimentum at arcu. Donec massa dolor, pellentesque quis interdum vitae, fringilla nec mi. Sed imperdiet, quam in varius ultricies, nulla est semper nulla, sed eleifend ante neque quis lacus. Donec eget fringilla purus. Phasellus dolor orci, cursus nec tempus a, rutrum sit amet quam. Nunc diam mauris, fringilla nec egestas convallis, dapibus non turpis. Pellentesque facilisis tempor diam, at adipiscing felis hendrerit eget. Vestibulum sed nulla quis turpis posuere vestibulum. Donec ut massa magna, in accumsan ipsum. Aliquam in ligula odio, ac ultrices nibh. Sed lobortis laoreet nisi eu vulputate. In vitae nunc at erat faucibus imperdiet. Nulla dapibus velit quis tellus dictum congue. Nam enim sapien, tincidunt eget vestibulum a, commodo in mauris.</item>
+        <item>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tristique tempor tortor, id dignissim magna gravida vitae. Nunc nec libero dui. Proin lectus lorem, semper ut commodo nec, condimentum at arcu. Donec massa dolor, pellentesque quis interdum vitae, fringilla nec mi. Sed imperdiet, quam in varius ultricies, nulla est semper nulla, sed eleifend ante neque quis lacus. Donec eget fringilla purus. Phasellus dolor orci, cursus nec tempus a, rutrum sit amet quam. Nunc diam mauris, fringilla nec egestas convallis, dapibus non turpis. Pellentesque facilisis tempor diam, at adipiscing felis hendrerit eget. Vestibulum sed nulla quis turpis posuere vestibulum. Donec ut massa magna, in accumsan ipsum. Aliquam in ligula odio, ac ultrices nibh. Sed lobortis laoreet nisi eu vulputate. In vitae nunc at erat faucibus imperdiet. Nulla dapibus velit quis tellus dictum congue. Nam enim sapien, tincidunt eget vestibulum a, commodo in mauris.</item>
+        <item>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tristique tempor tortor, id dignissim magna gravida vitae. Nunc nec libero dui. Proin lectus lorem, semper ut commodo nec, condimentum at arcu. Donec massa dolor, pellentesque quis interdum vitae, fringilla nec mi. Sed imperdiet, quam in varius ultricies, nulla est semper nulla, sed eleifend ante neque quis lacus. Donec eget fringilla purus. Phasellus dolor orci, cursus nec tempus a, rutrum sit amet quam. Nunc diam mauris, fringilla nec egestas convallis, dapibus non turpis. Pellentesque facilisis tempor diam, at adipiscing felis hendrerit eget. Vestibulum sed nulla quis turpis posuere vestibulum. Donec ut massa magna, in accumsan ipsum. Aliquam in ligula odio, ac ultrices nibh. Sed lobortis laoreet nisi eu vulputate. In vitae nunc at erat faucibus imperdiet. Nulla dapibus velit quis tellus dictum congue. Nam enim sapien, tincidunt eget vestibulum a, commodo in mauris.</item>
+        <item>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tristique tempor tortor, id dignissim magna gravida vitae. Nunc nec libero dui. Proin lectus lorem, semper ut commodo nec, condimentum at arcu. Donec massa dolor, pellentesque quis interdum vitae, fringilla nec mi. Sed imperdiet, quam in varius ultricies, nulla est semper nulla, sed eleifend ante neque quis lacus. Donec eget fringilla purus. Phasellus dolor orci, cursus nec tempus a, rutrum sit amet quam. Nunc diam mauris, fringilla nec egestas convallis, dapibus non turpis. Pellentesque facilisis tempor diam, at adipiscing felis hendrerit eget. Vestibulum sed nulla quis turpis posuere vestibulum. Donec ut massa magna, in accumsan ipsum. Aliquam in ligula odio, ac ultrices nibh. Sed lobortis laoreet nisi eu vulputate. In vitae nunc at erat faucibus imperdiet. Nulla dapibus velit quis tellus dictum congue. Nam enim sapien, tincidunt eget vestibulum a, commodo in mauris.</item>
+        <item>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tristique tempor tortor, id dignissim magna gravida vitae. Nunc nec libero dui. Proin lectus lorem, semper ut commodo nec, condimentum at arcu. Donec massa dolor, pellentesque quis interdum vitae, fringilla nec mi. Sed imperdiet, quam in varius ultricies, nulla est semper nulla, sed eleifend ante neque quis lacus. Donec eget fringilla purus. Phasellus dolor orci, cursus nec tempus a, rutrum sit amet quam. Nunc diam mauris, fringilla nec egestas convallis, dapibus non turpis. Pellentesque facilisis tempor diam, at adipiscing felis hendrerit eget. Vestibulum sed nulla quis turpis posuere vestibulum. Donec ut massa magna, in accumsan ipsum. Aliquam in ligula odio, ac ultrices nibh. Sed lobortis laoreet nisi eu vulputate. In vitae nunc at erat faucibus imperdiet. Nulla dapibus velit quis tellus dictum congue. Nam enim sapien, tincidunt eget vestibulum a, commodo in mauris.</item>
+        <item>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tristique tempor tortor, id dignissim magna gravida vitae. Nunc nec libero dui. Proin lectus lorem, semper ut commodo nec, condimentum at arcu. Donec massa dolor, pellentesque quis interdum vitae, fringilla nec mi. Sed imperdiet, quam in varius ultricies, nulla est semper nulla, sed eleifend ante neque quis lacus. Donec eget fringilla purus. Phasellus dolor orci, cursus nec tempus a, rutrum sit amet quam. Nunc diam mauris, fringilla nec egestas convallis, dapibus non turpis. Pellentesque facilisis tempor diam, at adipiscing felis hendrerit eget. Vestibulum sed nulla quis turpis posuere vestibulum. Donec ut massa magna, in accumsan ipsum. Aliquam in ligula odio, ac ultrices nibh. Sed lobortis laoreet nisi eu vulputate. In vitae nunc at erat faucibus imperdiet. Nulla dapibus velit quis tellus dictum congue. Nam enim sapien, tincidunt eget vestibulum a, commodo in mauris.</item>
+    </string-array>
+    <array name="schedule_image">
+        <item>@drawable/lunch</item>
+        <item>@drawable/breakfast</item>
+        <item>@drawable/lunch</item>
+        <item>@drawable/lunch</item>
+        <item>@drawable/breakfast</item>
+        <item>@drawable/breakfast</item>
+    </array>
+    <string-array name="schedule_time">
+        <item>8:00am</item>
+        <item>9:00am</item>
+        <item>12:00am</item>
+        <item>1:00pm</item>
+        <item>4:00pm</item>
+        <item>6:00pm</item>
+    </string-array>
+    <string-array name="schedule_title">
+        <item>Breakfast</item>
+        <item>Environment Studies</item>
+        <item>Architecture Studies</item>
+        <item>Lunch</item>
+        <item>On-Site Visit</item>
+        <item>Dinner</item>
+    </string-array>
+    <integer name="map_zoompoint_latitudeE6">37985339</integer>
+    <integer name="map_zoompoint_longitudeE6">23716735</integer>
+    <integer name="map_zoompoint_zoom">18</integer>
+    <string name="Share_Subject">Subject Here</string>
+    <string name="Share_body">Here is the share content body</string>
+    <string name="SheduleWidget_Contents">8:00  Breakfast\n9:00   Architecture\n12:00   Forest\n13:00  Lunch</string>
+    <string name="SheduleWidget_Title">YourEvent Schedule</string>
+    <string name="TwitterName">neurondigital</string>
+    <string name="app_name">Event App</string>
+    <string name="email">melvin@neurondigital.com</string>
+    <string name="event_title">YourEvent</string>
+    <string name="phone_number">(+7584)287482382872</string>
+    <string name="website">http://www.neurondigital.com</string>
+    <string name="welcome_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris mattis vehicula eros semper consectetur. Nullam hendrerit massa sapien. Fusce consectetur ultrices massa, pharetra sagittis leo molestie in. Nulla venenatis commodo consequat. Nulla quis ligula metus, vitae elementum eros. Praesent semper gravida urna, et imperdiet ante elementum ut. Donec posuere, ante sit amet posuere ultrices, quam eros imperdiet orci, ut posuere nisi leo quis orci. Fusce at rutrum mauris. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Pellentesque sit amet nibh at leo ornare porta. Quisque sed mi ut tellus lacinia placerat sit amet eu felis. Fusce.</string>
+</resources>

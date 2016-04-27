@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/mue/AndroidStudioProjects/Event App1/app/build/intermediates/res/merged/debug/drawable/appwidget_bg_clickable.xml",
+        "source": "/home/mue/AndroidStudioProjects/Event App1/app/src/main/res/drawable/appwidget_bg_clickable.xml"
+    },
+    {
+        "merged": "/home/mue/AndroidStudioProjects/Event App1/app/build/intermediates/res/merged/debug/drawable/roundcorners.xml",
+        "source": "/home/mue/AndroidStudioProjects/Event App1/app/src/main/res/drawable/roundcorners.xml"
+    }
+]

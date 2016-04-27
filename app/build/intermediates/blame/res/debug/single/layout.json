@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/home/mue/AndroidStudioProjects/Event App1/app/build/intermediates/res/merged/debug/layout/welcome.xml",
+        "source": "/home/mue/AndroidStudioProjects/Event App1/app/src/main/res/layout/welcome.xml"
+    },
+    {
+        "merged": "/home/mue/AndroidStudioProjects/Event App1/app/build/intermediates/res/merged/debug/layout/social.xml",
+        "source": "/home/mue/AndroidStudioProjects/Event App1/app/src/main/res/layout/social.xml"
+    },
+    {
+        "merged": "/home/mue/AndroidStudioProjects/Event App1/app/build/intermediates/res/merged/debug/layout/shedule.xml",
+        "source": "/home/mue/AndroidStudioProjects/Event App1/app/src/main/res/layout/shedule.xml"
+    },
+    {
+        "merged": "/home/mue/AndroidStudioProjects/Event App1/app/build/intermediates/res/merged/debug/layout/booking.xml",
+        "source": "/home/mue/AndroidStudioProjects/Event App1/app/src/main/res/layout/booking.xml"
+    },
+    {
+        "merged": "/home/mue/AndroidStudioProjects/Event App1/app/build/intermediates/res/merged/debug/layout/map.xml",
+        "source": "/home/mue/AndroidStudioProjects/Event App1/app/src/main/res/layout/map.xml"
+    },
+    {
+        "merged": "/home/mue/AndroidStudioProjects/Event App1/app/build/intermediates/res/merged/debug/layout/twitter_row.xml",
+        "source": "/home/mue/AndroidStudioProjects/Event App1/app/src/main/res/layout/twitter_row.xml"
+    },
+    {
+        "merged": "/home/mue/AndroidStudioProjects/Event App1/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/home/mue/AndroidStudioProjects/Event App1/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/home/mue/AndroidStudioProjects/Event App1/app/build/intermediates/res/merged/debug/layout/shedule_row.xml",
+        "source": "/home/mue/AndroidStudioProjects/Event App1/app/src/main/res/layout/shedule_row.xml"
+    },
+    {
+        "merged": "/home/mue/AndroidStudioProjects/Event App1/app/build/intermediates/res/merged/debug/layout/activitydetails.xml",
+        "source": "/home/mue/AndroidStudioProjects/Event App1/app/src/main/res/layout/activitydetails.xml"
+    },
+    {
+        "merged": "/home/mue/AndroidStudioProjects/Event App1/app/build/intermediates/res/merged/debug/layout/widget.xml",
+        "source": "/home/mue/AndroidStudioProjects/Event App1/app/src/main/res/layout/widget.xml"
+    }
+]
