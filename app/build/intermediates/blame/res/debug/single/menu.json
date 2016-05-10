@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/home/mue/the_event/app/build/intermediates/res/merged/debug/menu/menu.xml",
+        "source": "/home/mue/the_event/app/src/main/res/menu/menu.xml"
+    },
+    {
         "merged": "/home/jaykayitare/AndroidStudioProjects/the_event/app/build/intermediates/res/merged/debug/menu/menu.xml",
         "source": "/home/jaykayitare/AndroidStudioProjects/the_event/app/src/main/res/menu/menu.xml"
     }
